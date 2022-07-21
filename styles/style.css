@@ -23,6 +23,10 @@ main {
   background-color: aquamarine;
 }
 
+li {
+  list-style: none;
+}
+
 .menu {
   background-color: aquamarine;
   border: 2px solid rgb(95, 186, 156);
