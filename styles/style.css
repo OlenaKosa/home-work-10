@@ -1,3 +1,27 @@
 * {
   box-sizing: border-box;
 }
+
+.wrapper {
+  width: 1200px;
+}
+
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+background-color: azure;
+padding: 20px;
+font-size: 0px;
+}
+
+.menu {
+  background-color: aquamarine;
+  border: 2px solid rgb(95, 186, 156);
+  padding: 20px;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+}
