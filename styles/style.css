@@ -9,13 +9,18 @@
 }
 
 body {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 header {
-background-color: azure;
-padding: 20px;
-font-size: 0px;
+  background-color: azure;
+  padding: 20px;
+  font-size: 0px;
+}
+
+main {
+  padding: 20px;
+  background-color: aquamarine;
 }
 
 .menu {
